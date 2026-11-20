@@ -10,6 +10,8 @@ bidmachine.io,1,DIRECT
 
 bidmachine.io,466,DIRECT
 
+bidmachine.io, 442477, DIRECT
+
 #Add other networks if applicable
 
 #Resellers
